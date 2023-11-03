@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: c2f90da241e6f3345bfdb8073dd01add
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SacrifeStoneBlue-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 51
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26755eeaf57d4c3438945a49afe33558
+      internalID: 1939726848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrifeStoneBlue-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 51
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a383a212b848764194d7fd50fca9eca
+      internalID: 1061273321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrifeStoneBlue-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 51
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fcfba4961303e44a6f676a80f1c719
+      internalID: 2090996676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrifeStoneBlue-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 51
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d53f762839ab14d8676ea1982356ca
+      internalID: 1871891390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrifeStoneBlue-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 52
+        width: 206
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757296bd34caff3428aea6e301824596
+      internalID: -2019876206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrifeStoneBlue-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 51
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d23149ab9edde47852d262cce12394
+      internalID: -1094649476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrifeStoneBlue-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 51
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fa203176256d84586ac4b1966a2d29
+      internalID: 2003610167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrifeStoneBlue-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 51
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2fee645a6c945469f58e127f6830cf
+      internalID: -2021860444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrifeStoneBlue-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 51
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503f03feb1a6ab54fa94273051ac1e45
+      internalID: -401674788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SacrifeStoneBlue-Sheet_4: 1295625487
+      SacrifeStoneBlue-Sheet_1: -306437717
+      SacrifeStoneBlue-Sheet_38: 1939726848
+      SacrifeStoneBlue-Sheet_24: -684172755
+      SacrifeStoneBlue-Sheet_6: 1659372347
+      SacrifeStoneBlue-Sheet_29: 1375065726
+      SacrifeStoneBlue-Sheet_53: -121352874
+      SacrifeStoneBlue-Sheet_42: 994117028
+      SacrifeStoneBlue-Sheet_30: 1061273321
+      SacrifeStoneBlue-Sheet_47: 2090996676
+      SacrifeStoneBlue-Sheet_18: 1871891390
+      SacrifeStoneBlue-Sheet_2: 1742505926
+      SacrifeStoneBlue-Sheet_50: -484782042
+      SacrifeStoneBlue-Sheet_48: 1785414189
+      SacrifeStoneBlue-Sheet_27: -559956612
+      SacrifeStoneBlue-Sheet_20: 938438741
+      SacrifeStoneBlue-Sheet_21: -274146035
+      SacrifeStoneBlue-Sheet_46: -604409175
+      SacrifeStoneBlue-Sheet_11: -732362104
+      SacrifeStoneBlue-Sheet_34: 1059051050
+      SacrifeStoneBlue-Sheet_32: -1994005124
+      SacrifeStoneBlue-Sheet_35: 171922535
+      SacrifeStoneBlue-Sheet_52: -2111308816
+      SacrifeStoneBlue-Sheet_41: 1696138736
+      SacrifeStoneBlue-Sheet_0: -401674788
+      SacrifeStoneBlue-Sheet_10: 360442521
+      SacrifeStoneBlue-Sheet_39: -680170745
+      SacrifeStoneBlue-Sheet_33: 2015183432
+      SacrifeStoneBlue-Sheet_45: -828452155
+      SacrifeStoneBlue-Sheet_26: -471118168
+      SacrifeStoneBlue-Sheet_49: 46202746
+      SacrifeStoneBlue-Sheet_40: -7869985
+      SacrifeStoneBlue-Sheet_13: 1305395854
+      SacrifeStoneBlue-Sheet_16: 1003216968
+      SacrifeStoneBlue-Sheet_23: -1608152355
+      SacrifeStoneBlue-Sheet_3: 1887957264
+      SacrifeStoneBlue-Sheet_25: -887387118
+      SacrifeStoneBlue-Sheet_8: 1971102665
+      SacrifeStoneBlue-Sheet_51: -190538574
+      SacrifeStoneBlue-Sheet_5: -1107040487
+      SacrifeStoneBlue-Sheet_9: -2019876206
+      SacrifeStoneBlue-Sheet_22: -1094649476
+      SacrifeStoneBlue-Sheet_44: 2003610167
+      SacrifeStoneBlue-Sheet_15: 1479122733
+      SacrifeStoneBlue-Sheet_7: -858101756
+      SacrifeStoneBlue-Sheet_12: -2021860444
+      SacrifeStoneBlue-Sheet_19: -296028546
+      SacrifeStoneBlue-Sheet_36: 176216621
+      SacrifeStoneBlue-Sheet_43: 1584852993
+      SacrifeStoneBlue-Sheet_17: -1345167043
+      SacrifeStoneBlue-Sheet_31: -649593739
+      SacrifeStoneBlue-Sheet_14: -315815293
+      SacrifeStoneBlue-Sheet_37: 2091589823
+      SacrifeStoneBlue-Sheet_28: 741282245
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2425 @@
+fileFormatVersion: 2
+guid: 6faa2922c72e8194ebd0ae22b150a8c1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1148
+        width: 105
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac2b3ce58c330948bed7f717a4be6c5
+      internalID: -70295616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2244
+        width: 170
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834a5a31a3f523a49b171ffa5008917a
+      internalID: -948579230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2244
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901bb9a93843d904a8298f2e8647a019
+      internalID: -1445634676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2244
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d053aaef70912594da3db99a560f128a
+      internalID: -1009789606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2244
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a228085eb9b6344a8e8131cad4bc60
+      internalID: -2131174690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2244
+        width: 155
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31beac852a034cd45a9671d27f90256b
+      internalID: -1521179501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2244
+        width: 165
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b07b2dd60a960458824013e2837d72
+      internalID: -1242080492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 990
+        width: 157
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99127f488c8506e429e8b33102458a6d
+      internalID: 1787140447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2244
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3426cbfca5420f745a02db409075b0ea
+      internalID: 230172293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 990
+        width: 170
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c6265cd6b9ae54ba88323ce443edb3
+      internalID: -2042980689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 2242
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6f5c118050ee64fafb71ba4e57d234
+      internalID: 1217161248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1138
+        width: 161
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fc33b150add274ab1f1824cfc8fa4e
+      internalID: 846644050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 2239
+        width: 161
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9d8139919aad74fae42cce3bbfbeb2
+      internalID: -840480730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1139
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728f0066688e9ab499d4d6a0d83f681d
+      internalID: 718363981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 349
+        width: 109
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fb554ebd39a9f47ad3be1fdea12d88
+      internalID: 313775031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2086
+        width: 170
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc822cc649dd49429f0082cae1a62d6
+      internalID: -664813957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2086
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952b388245f20e44da0c6f64dfe431a5
+      internalID: -1971480435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2086
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc23f925b0f9fb49ac29490b7d6d301
+      internalID: -473495621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2086
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb2151d0dc38c443ad38d4cddbd6104
+      internalID: 1628336931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2086
+        width: 155
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56475c6eadc8d104481dfa8880ada338
+      internalID: 1992372343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2086
+        width: 165
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc7c0eaa98dce74ab55a7c49ec62086
+      internalID: 656608566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 350
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409a47c5e8cbfb34ea8080deeec2a1f6
+      internalID: 734912706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2085
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d93b584f52a2349a497b6d4fd731ce
+      internalID: -966286587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 507
+        width: 157
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da41f0a99d96df4ab5b0d0e22d07d19
+      internalID: -1307175276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1928
+        width: 170
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6eef1fbd5e54349b36025cd359de4a
+      internalID: -1663630930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1928
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5c11167575ab144a0861d3892fcf9f
+      internalID: 2074487162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1928
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b255447e997114fa3890a7e94418bc
+      internalID: -698061013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1928
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f77a4544dfaa44a833559d127e631c
+      internalID: 1360164692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1928
+        width: 155
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce7441503f58ee478b4948a1f96b9be
+      internalID: -1918422180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1928
+        width: 165
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da43c10ef62d6b459475c21b434051f
+      internalID: 464788585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1927
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeef98fcd98e664c831aa7adbbf894e
+      internalID: -1399129327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1761
+        width: 169
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72551450a6782d14a9356f8f07df9e30
+      internalID: 1952664299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1919
+        width: 326
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3906dcb45fca80a41863e47a3a18a5cd
+      internalID: -1896398340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1919
+        width: 157
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335abd2d8c06db047af7ff2c7e59a5e0
+      internalID: -183483389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1919
+        width: 157
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0deb518b4b665d499b49774259afe7d
+      internalID: 599170072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1758
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ea4ffb06d6f9f4a97fdb446cf89062
+      internalID: -1056398962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1759
+        width: 157
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0132be35f3669944989a172e3a00fe2d
+      internalID: 52995969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1758
+        width: 157
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98293b625d84b7a4e96fcefd16d143c6
+      internalID: 331168711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1759
+        width: 156
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c54abf56aa2786498287582eb20efd2
+      internalID: -1177087603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1760
+        width: 155
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a5b9b546e817c4a84775c8ac070fcb
+      internalID: 1989122977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1760
+        width: 165
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20facaf7fc117394a905c2d1f16ed7e4
+      internalID: -946233904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1760
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6cad54f6e32c744bcea3cff3d30bc2
+      internalID: 1984931892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1761
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b0663b0fc42804babac55b65433d95
+      internalID: 409130096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1603
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5fa8bb6d813bf408e73028cfc07d04
+      internalID: -1131820454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1761
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b7d0572262c22458b8307f5e0e7705
+      internalID: -1076224548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1540
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288fcf90f9161114ca482ebc89c76842
+      internalID: 843558033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1540
+        width: 158
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a204f857445644099d2122d312d468
+      internalID: -1532776144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1603
+        width: 169
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898bfd61cd003054db51c413a5832215
+      internalID: -420279985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1441
+        width: 157
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d24f8a452570d4fae3b916855889ae
+      internalID: -35977695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1761
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15271c551ad73c4459e2a06b967495ba
+      internalID: 702881068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1603
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ad5cfc17e6bc74eb781b1358115b1d
+      internalID: -1899011140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1454
+        width: 168
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263dfff6faddbdc4d99b093e0932afaf
+      internalID: 1950383948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1454
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838e1b5fbff76d443a72025f50bb18fc
+      internalID: -1024020847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1454
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25f927e4c11d61438657d83984d6629
+      internalID: -1815979989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1454
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecf47e14626b0946abcc72f8ab88836
+      internalID: 1387241043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1441
+        width: 181
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a953ef8a861dc41859e50ad0255f44
+      internalID: -49242173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1382
+        width: 162
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4896489, y: 0.4794296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e54a9af35b94d4f8b224731a9bec08
+      internalID: -1106361733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1382
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3a582f20f6d1f4f8a95e25190d7190
+      internalID: 1667456894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1441
+        width: 169
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52be7747af67f1f4888b8b7fd8d30161
+      internalID: -1808613658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1440
+        width: 157
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f7c85266b01e8498386bf5bee6eb44
+      internalID: -1548377151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1603
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ca418ad9101224c9c8e077551f9a51
+      internalID: -1110965674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1440
+        width: 157
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e81322ef27c280469cef8a2cf49f693
+      internalID: -1379378438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1148
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02e603b455faf64c9a9e8771730e215
+      internalID: 1925703509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 990
+        width: 157
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4999997, y: 0.49999923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda542b658d3e46458cc7d13d20dd370
+      internalID: 1627691334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 990
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54edfc1a8f0c91b47a86ad6ff59c1ad1
+      internalID: -1317012027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 990
+        width: 158
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8badd9bb79ca0ec458249aa847a7ef82
+      internalID: 1796246458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 990
+        width: 156
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3416b7d4f55ee734ea3a6886c96f5895
+      internalID: -1697147678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 832
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fa268cca19b6c449ed10544b709717
+      internalID: -230280387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 834
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1185544d4062a4ca840d99baeaff92
+      internalID: -155439877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 834
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535dffa99a70ac241bcb7dc8daa2d44e
+      internalID: 1112088152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 834
+        width: 171
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99f5dd59c9dc9d4ea1be831d687aa13
+      internalID: 2038868260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 834
+        width: 158
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3f64bf641675a4992c7d9ca5f473bc
+      internalID: -1311056123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 834
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efa958e993b6ea4c81f80e6bf7a242a
+      internalID: 2115828576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 506
+        width: 170
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e3a49f8b94b9743b7069939b35e393
+      internalID: 1675986879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 506
+        width: 157
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7177b8f762683dc4abc63e947267fb01
+      internalID: 968238416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 506
+        width: 157
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fc6767678f184448a77cadcbc4552b
+      internalID: 159873027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 506
+        width: 157
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9105c18d53812ad44b68771f1093419b
+      internalID: -480538187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 506
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdbaf3fe3b554b4a8813fc88ae704cf
+      internalID: -784288196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 348
+        width: 170
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901b3710ba014f54aa02d65bc2e693ba
+      internalID: -1559175088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 348
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6071a3eccf515c14b8a29654ae9b8dbe
+      internalID: -374567193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 348
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a0702c9543ffa4aa2f07ede3605afd
+      internalID: -760312528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 349
+        width: 157
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c58a0428021644e8690a9b3973dab5
+      internalID: -1820800207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 350
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a7d3d211552944fabd9ff39d9dbec8
+      internalID: 261370210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 348
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dda72888ae1d7947b0ef32790897664
+      internalID: -985173700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 348
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b40e9b7a16aef4daa033c347986f02
+      internalID: -156173073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 348
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c94013c1e59be4088521bdde6d6038
+      internalID: -1954124390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 190
+        width: 170
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bda2218dc33fd499447aec7722fce2
+      internalID: 759513123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 190
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13db79361df97144a1a54f964bfeb2c
+      internalID: 1435346902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 190
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924cccd9af0b02b4eae74606ae4e0339
+      internalID: 103073603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 190
+        width: 157
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71da4f20ba834649ae5a9f54d2024c0
+      internalID: -2109583818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 191
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1286f4db608920149be80960d0355f58
+      internalID: 1838149139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 192
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62359760f82831c41b5571f989217c1e
+      internalID: -1742815308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 192
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1552ccec72dab34a8944eb888eea861
+      internalID: -1813911526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 192
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5626c0f3d88b8d429a32d1bfa2d7a76
+      internalID: 1877968159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 192
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cbf5e8ef04fc94eaeab809345db8d3
+      internalID: 225238049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 192
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde7a94b87f2d5e40b85b9cc7b1eb453
+      internalID: -1645387228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 190
+        width: 157
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b6f3c87493f9645b1f772a67c478f6
+      internalID: 1269944972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 190
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2096201bb871e45a179a82337fc460
+      internalID: -345383964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 190
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee99af9119628f4ab73c9e22ec83f0f
+      internalID: -2126176881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scen1Tilesv1-Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 190
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad6730c4a67b7b46b109d36d880ed24
+      internalID: 496664507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scen1Tilesv1-Sheet_65: -1532776144
+      Scen1Tilesv1-Sheet_72: 1772637446
+      Scen1Tilesv1-Sheet_83: -1808613658
+      Scen1Tilesv1-Sheet_38: 1952664299
+      Scen1Tilesv1-Sheet_54: -1131820454
+      Scen1Tilesv1-Sheet_186: -945995882
+      Scen1Tilesv1-Sheet_130: -342891628
+      Scen1Tilesv1-Sheet_140: -480538187
+      Scen1Tilesv1-Sheet_71: -573283280
+      Scen1Tilesv1-Sheet_29: -1663630930
+      Scen1Tilesv1-Sheet_132: 679169490
+      Scen1Tilesv1-Sheet_112: -2086900599
+      Scen1Tilesv1-Sheet_122: -1311056123
+      Scen1Tilesv1-Sheet_103: -485992203
+      Scen1Tilesv1-Sheet_66: -532458594
+      Scen1Tilesv1-Sheet_46: 331168711
+      Scen1Tilesv1-Sheet_155: -985173700
+      Scen1Tilesv1-Sheet_0: -70295616
+      Scen1Tilesv1-Sheet_59: 1878690946
+      Scen1Tilesv1-Sheet_87: 1216983920
+      Scen1Tilesv1-Sheet_104: 1925703509
+      Scen1Tilesv1-Sheet_77: -438725389
+      Scen1Tilesv1-Sheet_142: 610982464
+      Scen1Tilesv1-Sheet_41: 599170072
+      Scen1Tilesv1-Sheet_63: -1668324854
+      Scen1Tilesv1-Sheet_32: 1360164692
+      Scen1Tilesv1-Sheet_99: -1833404419
+      Scen1Tilesv1-Sheet_49: -946233904
+      Scen1Tilesv1-Sheet_56: -1076224548
+      Scen1Tilesv1-Sheet_52: 1441163077
+      Scen1Tilesv1-Sheet_141: -784288196
+      Scen1Tilesv1-Sheet_67: -420279985
+      Scen1Tilesv1-Sheet_131: -134223765
+      Scen1Tilesv1-Sheet_64: 843558033
+      Scen1Tilesv1-Sheet_107: -812673314
+      Scen1Tilesv1-Sheet_188: -1565453300
+      Scen1Tilesv1-Sheet_34: 464788585
+      Scen1Tilesv1-Sheet_187: 215188271
+      Scen1Tilesv1-Sheet_120: 1112088152
+      Scen1Tilesv1-Sheet_20: 656608566
+      Scen1Tilesv1-Sheet_31: -698061013
+      Scen1Tilesv1-Sheet_51: 1984931892
+      Scen1Tilesv1-Sheet_109: 883096492
+      Scen1Tilesv1-Sheet_47: -1177087603
+      Scen1Tilesv1-Sheet_189: 1521181916
+      Scen1Tilesv1-Sheet_146: -760312528
+      Scen1Tilesv1-Sheet_143: 590519312
+      Scen1Tilesv1-Sheet_101: 748437541
+      Scen1Tilesv1-Sheet_165: -1742815308
+      Scen1Tilesv1-Sheet_50: 1435684603
+      Scen1Tilesv1-Sheet_82: 1549864902
+      Scen1Tilesv1-Sheet_123: 2115828576
+      Scen1Tilesv1-Sheet_119: -155439877
+      Scen1Tilesv1-Sheet_22: -966286587
+      Scen1Tilesv1-Sheet_28: 1067130370
+      Scen1Tilesv1-Sheet_118: -230280387
+      Scen1Tilesv1-Sheet_93: 1965099631
+      Scen1Tilesv1-Sheet_35: 1564990105
+      Scen1Tilesv1-Sheet_163: -2109583818
+      Scen1Tilesv1-Sheet_151: 1916355019
+      Scen1Tilesv1-Sheet_58: 20928994
+      Scen1Tilesv1-Sheet_27: -1202094703
+      Scen1Tilesv1-Sheet_15: -664813957
+      Scen1Tilesv1-Sheet_43: -2090675890
+      Scen1Tilesv1-Sheet_81: 1667456894
+      Scen1Tilesv1-Sheet_174: -334702417
+      Scen1Tilesv1-Sheet_145: -374567193
+      Scen1Tilesv1-Sheet_48: 1989122977
+      Scen1Tilesv1-Sheet_173: 496664507
+      Scen1Tilesv1-Sheet_183: -1993742643
+      Scen1Tilesv1-Sheet_114: 1796246458
+      Scen1Tilesv1-Sheet_172: -2126176881
+      Scen1Tilesv1-Sheet_113: -2049919767
+      Scen1Tilesv1-Sheet_136: 159873027
+      Scen1Tilesv1-Sheet_181: -63151787
+      Scen1Tilesv1-Sheet_7: 1787140447
+      Scen1Tilesv1-Sheet_61: 1843684832
+      Scen1Tilesv1-Sheet_14: 313775031
+      Scen1Tilesv1-Sheet_69: 702881068
+      Scen1Tilesv1-Sheet_178: -462142989
+      Scen1Tilesv1-Sheet_166: -1813911526
+      Scen1Tilesv1-Sheet_182: 1559631454
+      Scen1Tilesv1-Sheet_33: -1918422180
+      Scen1Tilesv1-Sheet_100: -435806072
+      Scen1Tilesv1-Sheet_26: 2096679506
+      Scen1Tilesv1-Sheet_60: 487300972
+      Scen1Tilesv1-Sheet_79: 1543801602
+      Scen1Tilesv1-Sheet_11: 846644050
+      Scen1Tilesv1-Sheet_137: -1692808545
+      Scen1Tilesv1-Sheet_8: 230172293
+      Scen1Tilesv1-Sheet_4: -2131174690
+      Scen1Tilesv1-Sheet_179: 1200158175
+      Scen1Tilesv1-Sheet_116: -155369144
+      Scen1Tilesv1-Sheet_45: 52995969
+      Scen1Tilesv1-Sheet_85: -1110965674
+      Scen1Tilesv1-Sheet_167: 1877968159
+      Scen1Tilesv1-Sheet_149: 1884510678
+      Scen1Tilesv1-Sheet_10: 1217161248
+      Scen1Tilesv1-Sheet_110: 1627691334
+      Scen1Tilesv1-Sheet_117: 26229009
+      Scen1Tilesv1-Sheet_89: 1255527420
+      Scen1Tilesv1-Sheet_190: 1448242014
+      Scen1Tilesv1-Sheet_19: 1992372343
+      Scen1Tilesv1-Sheet_180: 1941967029
+      Scen1Tilesv1-Sheet_23: -1307175276
+      Scen1Tilesv1-Sheet_68: -35977695
+      Scen1Tilesv1-Sheet_144: -1559175088
+      Scen1Tilesv1-Sheet_134: 1675986879
+      Scen1Tilesv1-Sheet_169: -1645387228
+      Scen1Tilesv1-Sheet_170: 1269944972
+      Scen1Tilesv1-Sheet_42: -1293314755
+      Scen1Tilesv1-Sheet_53: 409130096
+      Scen1Tilesv1-Sheet_160: 759513123
+      Scen1Tilesv1-Sheet_175: 1741688752
+      Scen1Tilesv1-Sheet_76: 1387241043
+      Scen1Tilesv1-Sheet_148: 1166577317
+      Scen1Tilesv1-Sheet_62: -1390862647
+      Scen1Tilesv1-Sheet_108: -168489405
+      Scen1Tilesv1-Sheet_6: -1242080492
+      Scen1Tilesv1-Sheet_94: 1689818521
+      Scen1Tilesv1-Sheet_24: -1436781467
+      Scen1Tilesv1-Sheet_128: 288444927
+      Scen1Tilesv1-Sheet_133: -238489396
+      Scen1Tilesv1-Sheet_147: -1820800207
+      Scen1Tilesv1-Sheet_115: -1697147678
+      Scen1Tilesv1-Sheet_156: -156173073
+      Scen1Tilesv1-Sheet_30: 2074487162
+      Scen1Tilesv1-Sheet_171: -345383964
+      Scen1Tilesv1-Sheet_13: 718363981
+      Scen1Tilesv1-Sheet_102: -1252178399
+      Scen1Tilesv1-Sheet_106: -1979636601
+      Scen1Tilesv1-Sheet_92: -1744816379
+      Scen1Tilesv1-Sheet_78: -49242173
+      Scen1Tilesv1-Sheet_157: -1954124390
+      Scen1Tilesv1-Sheet_159: -1999114827
+      Scen1Tilesv1-Sheet_127: -713056689
+      Scen1Tilesv1-Sheet_124: 1895406193
+      Scen1Tilesv1-Sheet_25: 1037359939
+      Scen1Tilesv1-Sheet_129: 36466066
+      Scen1Tilesv1-Sheet_40: -183483389
+      Scen1Tilesv1-Sheet_153: 1572719341
+      Scen1Tilesv1-Sheet_139: 1240703060
+      Scen1Tilesv1-Sheet_91: -1405644498
+      Scen1Tilesv1-Sheet_88: 2108020466
+      Scen1Tilesv1-Sheet_185: -669274436
+      Scen1Tilesv1-Sheet_97: 472765490
+      Scen1Tilesv1-Sheet_176: 259117783
+      Scen1Tilesv1-Sheet_95: -2076514000
+      Scen1Tilesv1-Sheet_37: -846790793
+      Scen1Tilesv1-Sheet_98: 1442090573
+      Scen1Tilesv1-Sheet_177: -79280832
+      Scen1Tilesv1-Sheet_111: -1317012027
+      Scen1Tilesv1-Sheet_154: 261370210
+      Scen1Tilesv1-Sheet_2: -1445634676
+      Scen1Tilesv1-Sheet_96: 685846376
+      Scen1Tilesv1-Sheet_57: -2016594755
+      Scen1Tilesv1-Sheet_73: 1950383948
+      Scen1Tilesv1-Sheet_74: -1024020847
+      Scen1Tilesv1-Sheet_125: -354479656
+      Scen1Tilesv1-Sheet_36: -1399129327
+      Scen1Tilesv1-Sheet_138: 601752806
+      Scen1Tilesv1-Sheet_44: -1056398962
+      Scen1Tilesv1-Sheet_39: -1896398340
+      Scen1Tilesv1-Sheet_70: -1899011140
+      Scen1Tilesv1-Sheet_105: -1918768886
+      Scen1Tilesv1-Sheet_16: -1971480435
+      Scen1Tilesv1-Sheet_126: 1073698193
+      Scen1Tilesv1-Sheet_162: 103073603
+      Scen1Tilesv1-Sheet_17: -473495621
+      Scen1Tilesv1-Sheet_18: 1628336931
+      Scen1Tilesv1-Sheet_158: -692069527
+      Scen1Tilesv1-Sheet_121: 2038868260
+      Scen1Tilesv1-Sheet_184: -1934563334
+      Scen1Tilesv1-Sheet_5: -1521179501
+      Scen1Tilesv1-Sheet_80: -1106361733
+      Scen1Tilesv1-Sheet_152: -1783384065
+      Scen1Tilesv1-Sheet_1: -948579230
+      Scen1Tilesv1-Sheet_12: -840480730
+      Scen1Tilesv1-Sheet_55: -125523282
+      Scen1Tilesv1-Sheet_161: 1435346902
+      Scen1Tilesv1-Sheet_75: -1815979989
+      Scen1Tilesv1-Sheet_150: 48430991
+      Scen1Tilesv1-Sheet_164: 1838149139
+      Scen1Tilesv1-Sheet_84: -1548377151
+      Scen1Tilesv1-Sheet_3: -1009789606
+      Scen1Tilesv1-Sheet_90: 2050039562
+      Scen1Tilesv1-Sheet_21: 734912706
+      Scen1Tilesv1-Sheet_86: -1379378438
+      Scen1Tilesv1-Sheet_9: -2042980689
+      Scen1Tilesv1-Sheet_168: 225238049
+      Scen1Tilesv1-Sheet_135: 968238416
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

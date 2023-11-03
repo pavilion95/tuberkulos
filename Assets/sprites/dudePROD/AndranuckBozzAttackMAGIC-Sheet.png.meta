@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 9b917d6199968fd4093471fdbb28cb5a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AndranuckBozzAttackMAGIC-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 46
+        width: 89
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ad161b4cccc1a4e9446ed129e75db6
+      internalID: -842981976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndranuckBozzAttackMAGIC-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 58
+        width: 196
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932ea311168eb604fbf00a7dc146d555
+      internalID: -624261485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndranuckBozzAttackMAGIC-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 59
+        width: 211
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84cf60887a641048a70050e0ad3235b
+      internalID: -2065023700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndranuckBozzAttackMAGIC-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 58
+        width: 197
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8438187eedfc0f4985c76aa9c53218e
+      internalID: 585821112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndranuckBozzAttackMAGIC-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 59
+        width: 199
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca0890d8c31b1f46b79b31deb000c82
+      internalID: -2049343693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndranuckBozzAttackMAGIC-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 69
+        width: 186
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b421b72403e6e44690550519403fb3d
+      internalID: 11012099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndranuckBozzAttackMAGIC-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 66
+        width: 202
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b12cd7f654ede54fab2219e67e9aa19
+      internalID: -887450706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndranuckBozzAttackMAGIC-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 61
+        width: 200
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b5b9413d5cc3a469f8bc8d5edb5fa8
+      internalID: -309326601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndranuckBozzAttackMAGIC-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 58
+        width: 209
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf24306f5112c6488ac7c16d77d2ada
+      internalID: -2058674486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndranuckBozzAttackMAGIC-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 35
+        width: 63
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0658534e876634aa4c005272e430b5
+      internalID: -608252975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndranuckBozzAttackMAGIC-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 46
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fbda1ed7fd46949b2d4e757b382a53
+      internalID: 166040821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndranuckBozzAttackMAGIC-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 51
+        width: 97
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeaf806389a78643934a269a1b915fb
+      internalID: 1241603400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AndranuckBozzAttackMAGIC-Sheet_16: -2058674486
+      AndranuckBozzAttackMAGIC-Sheet_19: -700912095
+      AndranuckBozzAttackMAGIC-Sheet_13: 1649956941
+      AndranuckBozzAttackMAGIC-Sheet_24: -173174355
+      AndranuckBozzAttackMAGIC-Sheet_0: -842981976
+      AndranuckBozzAttackMAGIC-Sheet_28: 24883993
+      AndranuckBozzAttackMAGIC-Sheet_7: 585821112
+      AndranuckBozzAttackMAGIC-Sheet_23: -812391710
+      AndranuckBozzAttackMAGIC-Sheet_3: 1256528128
+      AndranuckBozzAttackMAGIC-Sheet_14: -309326601
+      AndranuckBozzAttackMAGIC-Sheet_26: -1525957183
+      AndranuckBozzAttackMAGIC-Sheet_21: 166040821
+      AndranuckBozzAttackMAGIC-Sheet_9: 1445663376
+      AndranuckBozzAttackMAGIC-Sheet_27: -1223857157
+      AndranuckBozzAttackMAGIC-Sheet_8: -2049343693
+      AndranuckBozzAttackMAGIC-Sheet_22: 1241603400
+      AndranuckBozzAttackMAGIC-Sheet_1: -1404923030
+      AndranuckBozzAttackMAGIC-Sheet_20: -180658044
+      AndranuckBozzAttackMAGIC-Sheet_6: -341084412
+      AndranuckBozzAttackMAGIC-Sheet_12: -887450706
+      AndranuckBozzAttackMAGIC-Sheet_10: 11012099
+      AndranuckBozzAttackMAGIC-Sheet_18: -608252975
+      AndranuckBozzAttackMAGIC-Sheet_11: -1118309990
+      AndranuckBozzAttackMAGIC-Sheet_17: 93828042
+      AndranuckBozzAttackMAGIC-Sheet_15: -1936141923
+      AndranuckBozzAttackMAGIC-Sheet_2: -1607849528
+      AndranuckBozzAttackMAGIC-Sheet_25: 1731140273
+      AndranuckBozzAttackMAGIC-Sheet_5: -2065023700
+      AndranuckBozzAttackMAGIC-Sheet_29: -985864183
+      AndranuckBozzAttackMAGIC-Sheet_4: -624261485
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

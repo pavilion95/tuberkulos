@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 0c498ddb0d4b26f4ca40ac69376a509b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Portaldung 1_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 156
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ac4c031f252024489308fb92ca7a6f
+      internalID: 1655233510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portaldung 1_61
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 52
+        width: 156
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07762f04eb909f34a890ec1cdc0d2149
+      internalID: -2111030079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portaldung 1_62
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 52
+        width: 156
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290ec73f59da91d4e94e2d07af1589be
+      internalID: -803610509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portaldung 1_63
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 52
+        width: 156
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76b673e8eabf15459a7fbc8fb4e1397
+      internalID: 92782041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portaldung 1_64
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 52
+        width: 156
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491d5d728fcae0a47bd7d8a05a096095
+      internalID: -692427622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portaldung 1_65
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 52
+        width: 156
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df76d8cbf4478f541973c15d7058bf71
+      internalID: 1351150276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portaldung 1_66
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 52
+        width: 156
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c66eb993358f949922f700de86b1c3
+      internalID: -1392983651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portaldung 1_67
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 52
+        width: 156
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc19e732614835d478bea4c2b23c5c6a
+      internalID: -213638091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Portaldung 1_59: -213638091
+      Portaldung 1_15: -201706102
+      Portaldung 1_65: 1921493499
+      Portaldung 1_26: 1327889858
+      Portaldung 1_31: 875312858
+      Portaldung 1_44: 1121449629
+      Portaldung 1_41: -1603865364
+      Portaldung 1_9: -1225727653
+      Portaldung 1_8: 555876465
+      Portaldung 1_61: 1620044903
+      Portaldung 1_32: -673692858
+      Portaldung 1_33: -689315253
+      Portaldung 1_5: 94983143
+      Portaldung 1_39: -2122565575
+      Portaldung 1_1: -1992760009
+      Portaldung 1_36: 2062516680
+      Portaldung 1_13: -739480232
+      Portaldung 1_23: -714010445
+      Portaldung 1_19: 2071110944
+      Portaldung 1_50: 302860571
+      Portaldung 1_40: -1425832976
+      Portaldung 1_48: -1820994770
+      Portaldung 1_22: -1771150775
+      Portaldung 1_18: -772503098
+      Portaldung 1_63: -1485577245
+      Portaldung 1_27: 1818863708
+      Portaldung 1_20: 888680213
+      Portaldung 1_2: 260554944
+      Portaldung 1_56: -2115808384
+      Portaldung 1_60: 845096523
+      Portaldung 1_52: 1359815698
+      Portaldung 1_57: 2101928173
+      Portaldung 1_37: -1137077083
+      Portaldung 1_45: 225467882
+      Portaldung 1_47: -1120876764
+      Portaldung 1_12: 2082366275
+      Portaldung 1_51: 1866593180
+      Portaldung 1_54: 1395825267
+      Portaldung 1_42: -1920586088
+      Portaldung 1_10: 620830757
+      Portaldung 1_46: 414375862
+      Portaldung 1_43: 1041882899
+      Portaldung 1_29: -1337191419
+      Portaldung 1_53: 1497727817
+      Portaldung 1_11: 2042753129
+      Portaldung 1_55: -1438940965
+      Portaldung 1_64: 782311956
+      Portaldung 1_3: -1052486782
+      Portaldung 1_67: 950720408
+      Portaldung 1_38: 242527553
+      Portaldung 1_14: -754564087
+      Portaldung 1_62: -1043109036
+      Portaldung 1_35: -1208845263
+      Portaldung 1_28: -962743919
+      Portaldung 1_17: -1396318101
+      Portaldung 1_7: 2020029129
+      Portaldung 1_25: 956879290
+      Portaldung 1_4: 336243532
+      Portaldung 1_16: -1823027791
+      Portaldung 1_34: -1008012144
+      Portaldung 1_49: 1655233510
+      Portaldung 1_21: -2111030079
+      Portaldung 1_58: -803610509
+      Portaldung 1_6: 92782041
+      Portaldung 1_30: -692427622
+      Portaldung 1_0: 1351150276
+      Portaldung 1_24: -1392983651
+      Portaldung 1_66: -1145824091
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
