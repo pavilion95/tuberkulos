@@ -3406,15 +3406,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5631757858087930543, guid: 4d168413baf5eaf45b28a9c4860eacf7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -77.81
+      value: -260.23
       objectReference: {fileID: 0}
     - target: {fileID: 5631757858087930543, guid: 4d168413baf5eaf45b28a9c4860eacf7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.28
+      value: -1.94
       objectReference: {fileID: 0}
     - target: {fileID: 5631757858087930543, guid: 4d168413baf5eaf45b28a9c4860eacf7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.64
+      value: 2.02
       objectReference: {fileID: 0}
     - target: {fileID: 5631757858087930543, guid: 4d168413baf5eaf45b28a9c4860eacf7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -11765,7 +11765,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 482486478}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -77.78206, y: -3.9991617, z: -8.335137}
+  m_LocalPosition: {x: -260.20206, y: 0.34083843, z: -7.9551377}
   m_LocalScale: {x: -1.88, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -91790,15 +91790,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8842514760910623544, guid: 3f4c7be88f20da24eac00ae7c7f15131, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -77.78206
+      value: -260.20206
       objectReference: {fileID: 0}
     - target: {fileID: 8842514760910623544, guid: 3f4c7be88f20da24eac00ae7c7f15131, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.9991617
+      value: 0.34083843
       objectReference: {fileID: 0}
     - target: {fileID: 8842514760910623544, guid: 3f4c7be88f20da24eac00ae7c7f15131, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -8.335137
+      value: -7.9551377
       objectReference: {fileID: 0}
     - target: {fileID: 8842514760910623544, guid: 3f4c7be88f20da24eac00ae7c7f15131, type: 3}
       propertyPath: m_LocalRotation.w
