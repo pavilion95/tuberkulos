@@ -9,7 +9,7 @@ public class melee : MonoBehaviour
     public Transform attackPoint;
     public float attackRange = 0.5f;
     public LayerMask enemyLayers;
-    public int attackDamage = 40;
+    public int attackDamage =0;
     public float attackRate = 2f;
     float nextAttackTime = 0f;
 
